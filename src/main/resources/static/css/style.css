@@ -1,0 +1,11 @@
+/* Tela grande */
+@media(min-width: 768px) {
+    #formTitulo {
+        margin-top: 3rem;
+        margin-right: 4rem;
+        margin-left: 4rem;
+        margin-bottom: 3rem;
+    }
+}
+
+
